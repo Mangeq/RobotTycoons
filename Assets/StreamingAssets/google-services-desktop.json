@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597280189383",
+    "project_id": "robottycoon",
+    "storage_bucket": "robottycoon.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597280189383:android:654520f0927792062587e2",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.RobotTycoons"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMco75-nyBYd8Bm8KlDHrbrrXcKP2xMZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

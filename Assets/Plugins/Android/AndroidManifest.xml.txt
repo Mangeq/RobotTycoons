@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yourcompany.yourapp">
+
+    <application>
+        <!-- Diğer mevcut ayarlar -->
+          <uses-permission android:name="com.android.vending.BILLING" />
+        <!-- AdMob Uygulama ID'sini buraya ekleyin -->
+        <meta-data
+            android:name="RobotTycoons"
+            android:value="ca-app-pub-6383455866195046~4849762451"/>
+    </application>
+
+</manifest>
+s
